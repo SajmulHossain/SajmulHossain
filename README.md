@@ -47,7 +47,7 @@
 
 ## Connect with Me 🤝
 
-- 📧 **Email**: [sajmul@example.com](mailto:sajmul@example.com)
+- 📧 **Email**: [sajmul1427@gmail.com](mailto:sajmul1427@gmail.com)
 - 🌐 **Portfolio**: [sajmul.com](https://sajmul.com)
 - 💼 **LinkedIn**: [Sajmul Hossain](https://linkedin.com/in/sajmul-hossain)
 
