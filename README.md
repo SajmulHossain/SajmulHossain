@@ -49,7 +49,7 @@
 
 - 📧 **Email**: [sajmul1427@gmail.com](mailto:sajmul1427@gmail.com)
 - 🌐 **Portfolio**: [sajmul.com](https://sajmul.com)
-- 💼 **LinkedIn**: [Sajmul Hossain](https://linkedin.com/in/sajmul-hossain)
+- 💼 **LinkedIn**: [Sajmul Hossain](https://linkedin.com/in/sajmulhossain)
 
 ---
 
