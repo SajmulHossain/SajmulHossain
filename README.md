@@ -4,6 +4,9 @@
 # Hello, I'm Sajmul Hossain! 🚀
 <h2>Web Developer</h2>
 
+## About Me
+<p>I'm a passionate frontend developer with a focus on creating visually appealing, responsive, and user-friendly websites. Combining design and functionality, I transform ideas into impactful digital experiences.</p>
+
 ## Why Choose Me?
 
 - 🎓 **Education**: Final-year BSc. in CSE student at Port City International University.
@@ -15,8 +18,7 @@
 
 ---
 
-## About Me
-<p>I'm a passionate frontend developer with a focus on creating visually appealing, responsive, and user-friendly websites. Combining design and functionality, I transform ideas into impactful digital experiences.</p>
+
 
 ## My Technical Arsenal 🛠️
 
@@ -31,6 +33,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
+
+## Current Activities
+- Exploring Next JS
+- School Management Full Stack Project
 
 ## My GitHub Snapshot 📊
 
