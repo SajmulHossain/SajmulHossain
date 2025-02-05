@@ -15,6 +15,9 @@
 
 ---
 
+## About Me
+<p>I'm a passionate frontend developer with a focus on creating visually appealing, responsive, and user-friendly websites. Combining design and functionality, I transform ideas into impactful digital experiences.</p>
+
 ## My Technical Arsenal 🛠️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
