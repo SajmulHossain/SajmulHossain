@@ -38,6 +38,8 @@
 - Exploring Next JS
 - School Management Full Stack Project
 
+---
+
 ## My GitHub Snapshot 📊
 
 ![Sajmul's Github Profile Views](https://komarev.com/ghpvc/?username=sajmulhossain&label=Profile%20views&color=0e75b6&style=flat) 
