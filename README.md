@@ -1,4 +1,4 @@
-![logo](https://github.com/SajmulHossain/SajmulHossain/blob/main/Blue,%20Green,%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png?raw=true)
+![logo](https://github.com/SajmulHossain/SajmulHossain/blob/main/Gradient%20Geometric%20Creative%20Agency%20LinkedIn%20Banner.png)
 
 
 # Hello, I'm Sajmul Hossain! 🚀
