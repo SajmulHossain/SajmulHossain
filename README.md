@@ -5,16 +5,15 @@
 <h2>Web Developer</h2>
 
 ## About Me
-<p>I'm a passionate frontend developer with a focus on creating visually appealing, responsive, and user-friendly websites. Combining design and functionality, I transform ideas into impactful digital experiences.</p>
+<p>I'm a passionate full-stack developer with a focus on creating visually appealing, responsive, and user-friendly websites. Combining design and functionality, I transform ideas into impactful digital experiences.</p>
 
 ## Why Choose Me?
 
-- 🎓 **Education**: Final-year BSc. in CSE student at Port City International University.
-- 💻 **Frontend Specialist**: Expertise in React.js, HTML, CSS, JavaScript, and TailwindCSS.
+- 🎓 **Education**: BSc. in CSE student at Port City International University.
+- 💻 **Frontend Specialist**: Expertise in React.js, HTML, CSS, JavaScript,TypeScript, Redux Toolkit and TailwindCSS.
 - 🌟 **Proven Excellence**: Winner of Programming Hero’s 21-day Coding Bootcamp, securing 1st place among talented coders.
 - 📈 **Goal-Oriented**: Dedicated to delivering clean, scalable, and user-focused solutions.
-- 🧠 **Continuous Learner**: Currently mastering advanced React techniques and developing a custom authentication system.
-- 🎯 **Project Highlights**: Building a dynamic movie portal and refining a professional portfolio to showcase my work.
+- 🧠 **Continuous Learner**: Currently mastering advanced React techniques and building industry standard project.
 
 ---
 
@@ -37,6 +36,7 @@
 ## Current Activities
 - Exploring Next JS
 - School Management Full Stack Project
+- Tour Management Full Stack Project
 
 ---
 
