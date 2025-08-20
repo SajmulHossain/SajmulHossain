@@ -69,12 +69,12 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/sajmulhossain/sajmulhossain/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sajmulhossain/sajmulhossain/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ### 🧊 3D Contribution Calendar
 <p align="center">
-  <img src="https://github.com/sajmulhossain/sajmulhossain/blob/output/profile-night-rainbow.svg" alt="3D contributions" />
+  <img src="https://raw.githubusercontent.com/sajmulhossain/sajmulhossain/output/profile-night-rainbow.svg" alt="3D contributions" />
 </p>
 
 ---
