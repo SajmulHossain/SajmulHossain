@@ -1,29 +1,25 @@
-name: Generate 3D Profile
+name: 3D Profile
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # daily at 01:00 UTC
+    - cron: "0 0 * * *"   # runs every day at midnight
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@0.8.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate 3D profile contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.0
         with:
           username: sajmulhossain
 
-      - name: Commit 3D assets
-        uses: EndBug/add-and-commit@v9
+      - name: Push 3D profile to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "chore: update 3D contribution graph"
-          add: "profile-3d-contrib/*"
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
