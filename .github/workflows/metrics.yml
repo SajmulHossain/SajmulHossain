@@ -1,0 +1,50 @@
+name: GitHub Metrics
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # daily at 01:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: SajmulHossain
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Dhaka
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 2%
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      - name: List generated files
+        run: |
+          ls -la
+          ls -la dist || true
+
+      - name: Publish metrics to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+

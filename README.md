@@ -14,7 +14,21 @@
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=sajmulhossain&style=for-the-badge&color=0e75b6">
 </p>
 
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/sajmulhossain?style=for-the-badge&logo=github&label=Followers">
+  <img alt="Stars" src="https://img.shields.io/github/stars/sajmulhossain?style=for-the-badge&logo=github&label=Stars">
+  <img alt="Profile" src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge&logo=github">
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:91EAE4&height=4&section=header&text=&fontSize=0" alt="divider" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding animation" />
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -28,7 +42,7 @@
 ## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mongoose,postgres,firebase,cpp,java,c,git,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mongoose,postgres,firebase,cpp,java,c,git,postman&perline=12" alt="tech stack icons" />
 </p>
 
 - **Frontend:** HTML, CSS, JavaScript, **React.js**, **Redux**, **RTK Query**, **TailwindCSS**
@@ -48,19 +62,36 @@
 
 ## 📈 GitHub Pulse
 
+<div align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=sajmulhossain&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:91EAE4,100:7F7FD5&height=4&section=header&text=&fontSize=0" alt="divider" />
+</p>
+
+### 🧾 Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajmulhossain&theme=radical" alt="profile details" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sajmulhossain&theme=radical" alt="streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajmulhossain&theme=radical" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajmulhossain&theme=radical" alt="most commit language" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical" alt="top langs" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajmulhossain&theme=radical" alt="card stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajmulhossain&theme=radical&utcOffset=6" alt="productive time" />
 </p>
 
 ---
 
 ## 🔥 Activity & Animations
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:91EAE4&height=4&section=header&text=&fontSize=0" alt="divider" />
+</p>
 
 ### 📊 Contribution Graph
 <p align="center">
@@ -77,6 +108,10 @@
   <img src="https://raw.githubusercontent.com/sajmulhossain/sajmulhossain/output/profile-night-rainbow.svg" alt="3D contributions" />
 </p>
 
+### 📊 Metrics Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sajmulhossain/sajmulhossain/output/metrics.svg" alt="metrics" />
+</p>
 ---
 
 ## 🚀 Highlighted Skills in Action
@@ -84,6 +119,17 @@
 - Scalable REST APIs with **Node.js/Express** and **MongoDB/PostgreSQL**.
 - Auth flows with **Firebase**; role-based routing; private dashboards.
 - Performance-first styles using **TailwindCSS** and best practices.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:91EAE4,100:7F7FD5&height=4&section=header&text=&fontSize=0" alt="divider" />
+</p>
+
+## 💬 Daily Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
 
 ---
 
