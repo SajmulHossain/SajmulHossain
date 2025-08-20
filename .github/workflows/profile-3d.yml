@@ -1,8 +1,11 @@
 name: 3D Profile
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
@@ -13,8 +16,8 @@ jobs:
 
       - name: Generate 3D profile contribution
         uses: yoshi389111/github-profile-3d-contrib@0.7.0
-        with:
-          username: sajmulhossain
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push 3D profile to output branch
         uses: crazy-max/ghaction-github-pages@v4
